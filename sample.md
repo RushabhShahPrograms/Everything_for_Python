@@ -5,5 +5,9 @@
 
 `
 print("python")
+a=1
+b=2
+c=a+b
+print("Answer is: ",c)
 #hello
 `
