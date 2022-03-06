@@ -357,11 +357,11 @@ D) 8
 
 The x-y chart I shows the distance covered by Amit in five different races –A, B, C, D & E.
 
-![This is the image](https://ninjasfiles.s3.amazonaws.com/0000000000002566.51)
+![This is the image](https://blogger.googleusercontent.com/img/a/AVvXsEjTlyxTCqrEQDhPhZOlVOClJkgEaflQGuUYu4tMDd61rXlCpeON5NQqATNv1dxwMwPGxOmAUiwU6UUM-yNUI8oGXrCo50_Q83asinnY8LDgGpGkVuin8QwIOYyDajQ64vcpPc3yIG87nVm9vAfpIU7wCl5pIHmdQzlMhRCkluDtw9A2X8YMNM72lrO9fQ=s320)
 
 The x-y chart II shows the time taken to cover these five races – A, B, C , D & E
 
-![This is the image 2](https://ninjasfiles.s3.amazonaws.com/0000000000002567.51)
+![This is the image 2](https://blogger.googleusercontent.com/img/a/AVvXsEjkYt6cGXDGMjONyh2URsmkkjRH8nLrF9IAKL1Ncfv-4bVArGt12lZtDMnnDMwp9D0FVwQ2qxWmOZ5UC3unE9OIAM7iF7U34It4sbPVnOqB66GAY3V4cTBRPZMZz53W4xacGPgGUmJ0n8L4kNF-LU8xD2EwrTqYJMjh3lMqwFPBco9t6I5OL10eSjnhlw=s320)
 
 Based on the above charts answer the following questions.
 In which race speed of Amit is minimum?
@@ -376,7 +376,7 @@ D) C
 
 ## Area
 
-![This is the image 3](https://ninjasfiles.s3.amazonaws.com/asset_0000000000000609_1644925294_codestudio2.png)
+![image1](https://blogger.googleusercontent.com/img/a/AVvXsEilPKpbJJv-Unvc3l_BU3d5lR6oF1O5L9xxQEWu4NtF9fCw7woI9zrq85X0leou_pvc_7iDPfdWHvog6nZZumeI34JEycEmYD22xFu71Q_j_5YDlyrzJcu_EEcnC-SvYTa4Se1LClymEAmI_TDwAMmpYU9fFOZJtEXS3ueY8OdTEJfRz7F5TEUKvuVYow=s320)
 
 What is the area of the given figure?
 
